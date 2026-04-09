@@ -95,8 +95,7 @@ Farcaster is a decentralized social networking protocol that enables permissionl
 
 ### 🔗 Platform
 - [Remix](https://remix.gg) — The main platform. Create, remix, and play HTML5 browser games. Sign in with Farcaster, World, MetaMask, or WalletConnect.
-- [Remix on Farcaster](https://warpcast.com/~/mini-apps) — #1 gaming Mini App on both Farcaster and World App. 570,000+ players, 800+ games, 17M+ plays.
-- [Farcade (Archive)](https://farcade.io) — Original Farcade branding, now redirects to Remix.
+- [Remix on Farcaster](https://farcaster.xyz/miniapps/70JYaQHoZSlz/remix) — #1 gaming Mini App on both Farcaster and World App. 570,000+ players, 800+ games, 17M+ plays.
 
 ### ⚡ Snap Apps
 Snap Apps (SNAPs) are standalone apps spun out of top-performing Remix games — distributed across Base, Farcaster, World App, and the web with their own URL and listing.
