@@ -276,6 +276,7 @@ sdk.actions.hapticFeedback(); // Trigger haptics on mobile (use sparingly)
 - [Farcaster.vote](https://farcaster.vote) — Create verifiable, decentralized polls.
 
 ### Developer Tools
+- [In Three](https://github.com/P-U-C/farcaster-in-three) — Three-command setup for a self-hosted Snapchain read node and browser client. [Tutorial](https://farcaster.permanentupperclass.com/).
 - [Warpcast Dev Mode](https://warpcast.com/~/developers) — Official tools: manifest builder, Mini App preview, embed auditor.
 - [Neynar Debugger](https://docs.neynar.com/docs/debugging-tools) — Debug Farcaster API calls and webhooks.
 - [Cast Syndication](https://github.com/pugson/syndicate-farcaster) — Syndicate Farcaster casts to a static site or blog via JavaScript.
