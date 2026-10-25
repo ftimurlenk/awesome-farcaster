@@ -62,6 +62,7 @@ Farcaster is a decentralized social networking protocol that enables permissionl
 > Full-screen web apps running natively inside Farcaster clients. Formally launched in Warpcast navigation April 2025.
 
 ### 🎮 Games
+- [Anansi Arcade](https://anansidata-miniapp.vercel.app) — Free retro Farcaster Mini App arcade featuring Star Blaster, Bug Hunt, and 60-second speed trivia with deterministic server-side replay verification and a daily/weekly high-score leaderboard.
 - [Flappycaster](https://flappycaster.com) — Farcaster-native Flappy Bird. The OG Farcaster mini-game.
 - [FarHero](https://farhero.xyz) — 3D Farcaster trading card battle game.
 - [Farworld](https://farworld.gg) — Onchain Farcaster monsters — collect, battle, evolve.
@@ -84,6 +85,7 @@ Farcaster is a decentralized social networking protocol that enables permissionl
 - [Rewards](https://warpcast.com/~/rewards) — Warpcast weekly USDC rewards for top active casters.
 
 ### 🛠️ Utilities
+- [Anansi's Riddle](https://anansidata.xyz/r) — Daily live-data prediction Farcaster Mini App where players forecast real-time USGS earthquake counts, NOAA planetary Kp index, and network telemetry.
 - [Yoink!](https://yoink.party) — Viral flag-claiming game; also a well-documented Mini App SDK reference. ([GitHub](https://github.com/horsefacts/yoink))
 - [miniapps.zone](https://miniapps.zone) — Community-maintained directory of Farcaster Mini Apps.
 
